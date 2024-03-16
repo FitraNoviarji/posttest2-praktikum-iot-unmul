@@ -1,7 +1,7 @@
 # posttest2-praktikum-iot-unmul
 ## A. kelompok 7 A1 2021:
-2109106017 Fitra Noviarji
-2109106112 Sancto Metano Crozat
+ - 2109106017 Fitra Noviarji
+ - 2109106112 Sancto Metano Crozat
 ## B. Deskripsi :
  -  Kecerahan lampu bisa ditambahkan/dikurangi dengan kelipatan 3 (ex: 0, 3, 6, ..., 249, range 0-249)
  - Tone / nada Buzzer bisa ditambahkan/dikurangi dengan kelipatan 10 (ex: 100, 110, 120, 130, ..., 2500, range 100-2500)
