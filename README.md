@@ -23,3 +23,6 @@ Fitra Noviarji = mengatur konfigurasi rangkaian agar sesuai perintah yg diingink
  - List item
  - USB Micro Cable
  ## Skematich Design
+ ![Screenshot (378)](https://github.com/FitraNoviarji/posttest2-praktikum-iot-unmul/assets/113648587/0045f039-6acd-4cfc-8e7e-b9a3db364c17)
+ ## Our Design
+ 
