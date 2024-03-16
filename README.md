@@ -10,8 +10,8 @@
  - WEBSERVER diperlukan untuk monitor value Komponen
  - NodeMCU harus connect ke Wi-Fi (bebas memilih mode WIFI_AP atau WIFI_STA)
 ## C. Pembagian tugas :
-Sancto Metano Crozat = membuat rangkaian led serta konfigurasi
-Fitra Noviarji = mengatur konfigurasi rangkaian agar sesuai perintah yg diinginkan
+ - Sancto Metano Crozat = membuat rangkaian led serta konfigurasi
+ - Fitra Noviarji = mengatur konfigurasi rangkaian agar sesuai perintah yg diinginkan
 ## D. Komponen yang digunakan :
  - Kabel jumper
  - led
